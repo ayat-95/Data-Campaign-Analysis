@@ -7,6 +7,8 @@
 -  [Tools ](#Tools )
 -  [Data Cleaning](#Data-Cleaning)
 -  [Data Exploratory](#Data-Exploratory)
+-  [Data Analysis & Results ](#Data-Analysis-&-Results)
+-  [Recommendations](#Recommendations)
 
 ### Project Overview
 This project aims to analyze Marketing data to extract valuable insights that can inform business decision-making. It involves identifying sales trends, top-selling products, and key revenue metrics.
