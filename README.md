@@ -44,6 +44,13 @@ EDA involved exploring the sales data to answer key questions , such as :
 - The Highest Revenue came from BK-R93R-48  product ($640,510)  & from High- Value Customer 
 - The most Customer from UK
 
+#### Product:
+- The product count based on segmentation shows that low-quantity items represent 45% of total sales
+- The highest sales are from the plant segment.
+- Overall sales decreased in July but began to rise again in October. 
+
+  
+
 
 
 
