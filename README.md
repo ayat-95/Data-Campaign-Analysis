@@ -18,3 +18,39 @@ PowerBI
 - Power Queiry for data cleaning
 - Dax Calculation For Analysis
 - PowerBI for Creating Reports & Visulaizaitions
+
+### Data Cleaning
+
+ - Identify and remove duplicates, correct errors, and standardize data formats.
+ - Check for missing values and outliers. 
+
+### Data Exploratory 
+
+EDA involved exploring the sales data to answer key questions , such as :
+- Best-Selling Products Analysis
+- Trending Products Analysis
+- Customer Segmentation
+- Segment-Specific Trends
+
+### Data Analysis & Results 
+
+#### Profitability:
+- We notice that total profit $5 M & total Cost is $7 M  which means  that cost is higher than profit .
+- Google _ads has the highest profitability  based on the acquisition source (40%)  & lowest (CAC)  which means google is best  based on acquisition source 
+- July has the highest value in profit in the three acquisition source   which means  July is seasonal month.
+
+#### Customer:
+- Although total customer based on customer segment in infrequent buyer has the highest value (75%) from the total customer  but  the highest total revenue came  from Occasional buyer (67%) from the total sales .
+- The Highest Revenue came from BK-R93R-48  product ($640,510)  & from High- Value Customer 
+- The most Customer from UK
+
+
+
+
+
+
+
+
+
+
+
