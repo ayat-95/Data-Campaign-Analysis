@@ -16,6 +16,11 @@ This project aims to analyze Marketing data to extract valuable insights that ca
  l analyze sales trends over time, determine which products are top sellers, calculate essential revenue metrics like total sales and profit margins, and create visualizations to effectively communicate my findings. 
  This project demonstrates my ability to manipulate and extract insights from large datasets, enabling  to make data-driven recommendations to optimize sales strategies.
 
+
+
+ ![image](https://github.com/user-attachments/assets/7ba4923a-e761-4ae3-a588-8ed47e3c567c)
+
+
 ### Data Sources
 
 Order_Data: The primary dataset used for this analysis is the "Order_Data.csv" file,containing detailed information about each sales made by the company
