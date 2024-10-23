@@ -47,7 +47,22 @@ EDA involved exploring the sales data to answer key questions , such as :
 #### Product:
 - The product count based on segmentation shows that low-quantity items represent 45% of total sales
 - The highest sales are from the plant segment.
-- Overall sales decreased in July but began to rise again in October. 
+- Overall sales decreased in July but began to rise again in October.
+
+#### Risk Management: 
+- The payment method risk analysis indicates that credit cards carry the highest risk.
+-  Among card types, Visa shows the greatest risk level in transactions. 
+- Additionally, the highest risk for acquisition source is attributed to Google.
+
+#### Revenue Growth:
+- The profit per product segment shows that all segments generate very similar profit margins.
+- Additionally, revenue comparisons by month indicate consistent performance, with only slight variations between the current and previous month
+
+
+
+  
+
+
 
   
 
